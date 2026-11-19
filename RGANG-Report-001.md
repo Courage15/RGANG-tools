@@ -1,4 +1,3 @@
-# RGANG SECURITY CHECK - WiFi / Network Report
 
 Client: Test Shop - My House
 Location: Hatfield, Harare
